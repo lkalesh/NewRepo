@@ -17,6 +17,10 @@ public void M1()
 {
 System.out.println("Welcome to Git-Hub");
 }
+public void M3()
+{
+System.out.println("Welcome to Git-Hub1");
+}
 public static void main(String args[])
 {
 A a=new A();
