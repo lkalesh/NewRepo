@@ -7,8 +7,11 @@ System.out.println("Welcome to Git");
 }
 public void M2()
 {
-	M1();
 System.out.println("Welcome to Git12");
+}
+public void M4()
+{
+System.out.println("Welcome to Git-Hub231");
 }
 }
 class Main extends A
